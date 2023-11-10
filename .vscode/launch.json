@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "python": "C:\\python\\venv\\Scripts\\python.exe",
+            "args":["DBNAME", "get", "KEY"],
+            "justMyCode": true
+        }
+    ]
+}

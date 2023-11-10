@@ -1,5 +1,5 @@
 import pickle
-from logical import LogicalBase, ValueRef
+from src.logical import LogicalBase, ValueRef
 
 
 class BinaryNode:

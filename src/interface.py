@@ -1,5 +1,5 @@
-from binary_tree import BinaryTree
-from physical import Storage
+from src.binary_tree import BinaryTree
+from src.physical import Storage
 
 
 class DBDB:
